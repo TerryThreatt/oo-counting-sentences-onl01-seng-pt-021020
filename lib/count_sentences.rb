@@ -15,6 +15,6 @@ class String
   end
 
   def count_sentences
-    sent_array = (//)
+    sent_array = (/[.?!]+/)
   end
 end
