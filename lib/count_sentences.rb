@@ -15,6 +15,6 @@ class String
   end
 
   def count_sentences
-    self.end_with?(".","?", "!").split(" ").count 
+    sent_array = (//)
   end
 end
